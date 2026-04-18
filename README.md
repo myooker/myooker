@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myooker
 - 👀 I’m interested in computers, coding and etc...
-- 🌱 I’m currently learning ~~c++ and a bit of computer network~~ rust
+- 🌱 I’m currently learning c++, computer networking, linux
 - 📫 How to reach me please no
 - ⚡ Fun fact: ~~no fun!~~ yes, please
 
